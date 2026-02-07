@@ -1,0 +1,11 @@
+Executive Summary
+
+The goal of this project was to analyze employee attrition within the company, identify the key areas driving turnover, and propose data-driven solutions to reduce future attrition risk.
+
+The analysis followed a structured pipeline. Raw employee data was cleaned and transformed in Excel to create a feature-ready dataset. Key attrition-related variables were identified and categorized into analytical segments. A relational data model was then designed and implemented in SQL, where the dataset was imported for investigation.
+
+Using SQL analysis, multiple hypotheses were tested to identify root causes of attrition. These findings were validated through segmentation and risk profiling, leading to evidence-based insights and final recommendations.
+
+Key findings show that employees who leave earn significantly lower salaries, experience lower satisfaction, and tend to exit during early tenure stages. Attrition risk is heavily concentrated in the Research & Development department.
+
+Recommended actions include strengthening early-career support and training programs, improving satisfaction through workload balance and management culture, and prioritizing targeted intervention in R&D. Strategic compensation adjustments should be focused on high-risk segments rather than applied broadly.
